@@ -22,3 +22,4 @@
 因为项目为纯静态页面，下载后直接直接打开根目录 `index.html` 即可访问。
 
 - 服务器部署时**不**需要任何依赖环境😀。
+**预览网页**：[https://fenglin224.github.io/CFL/](https://fenglin224.github.io/CFL/)  ]
